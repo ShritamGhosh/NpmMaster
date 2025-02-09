@@ -1,0 +1,26 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "aise hi",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Anurag12kaari/NPM.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Anurag",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Anurag12kaari/NPM/issues"
+  },
+  "homepage": "https://github.com/Anurag12kaari/NPM#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
